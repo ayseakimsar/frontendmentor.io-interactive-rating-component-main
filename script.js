@@ -17,5 +17,5 @@ btnSubmit.addEventListener("click", function () {
   containers.forEach(function (container) {
     container.classList.toggle("hidden");
   });
-  displayRating.innerHTML = `You selected ${clicked} out of 5`;
+  displayRating.innerHTML = `You selected ${clicked} out o sadf 5`;
 });
